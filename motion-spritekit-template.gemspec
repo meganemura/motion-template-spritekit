@@ -10,14 +10,12 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{Setup SpriteKit template to user's directory}
   spec.homepage      = ""
   spec.license       = "MIT"
+  spec.extensions    = ['ext/extconf.rb'] # Command-Line Plugin Installer
 
   files = []
   files << 'README.md'
-  files.concat(Dir.glob('lib/**/*.rb'))
+  files.concat(Dir.glob('ext/**/*.rb'))
+  files.concat(Dir.glob('template/**/*'))
   spec.files         = files
-  spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
-  spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
   spec.require_paths = ["lib"]
-
-  spec.add_development_dependency "rake"
 end
