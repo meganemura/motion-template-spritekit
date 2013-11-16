@@ -1,15 +1,15 @@
-# -*- encoding: utf-8 -*-
-VERSION = "1.0"
+# coding: utf-8
+VERSION = "0.1"
 
 Gem::Specification.new do |spec|
   spec.name          = "motion-spritekit-template"
   spec.version       = VERSION
   spec.authors       = ["meganemura"]
   spec.email         = ["mura2megane@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Project template for SpriteKit with RubyMotion}
+  spec.summary       = %q{Setup SpriteKit template to user's directory}
   spec.homepage      = ""
-  spec.license       = ""
+  spec.license       = "MIT"
 
   files = []
   files << 'README.md'
