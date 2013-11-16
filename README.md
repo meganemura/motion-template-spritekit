@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-    $ motion create --template=spritekit-ios
+    $ motion create --template=spritekit-ios <app-name>
 
 ## Contributing
 
