@@ -1,18 +1,10 @@
 # motion-template-spritekit
 
-Project template for SpriteKit with RubyMotion
+Project template for SpriteKit with RubyMotion [![Gem Version](https://badge.fury.io/rb/motion-template-spritekit.png)](http://badge.fury.io/rb/motion-template-spritekit)
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'motion-template-spritekit'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
+Install it yourself as:
 
     $ gem install motion-template-spritekit
 
