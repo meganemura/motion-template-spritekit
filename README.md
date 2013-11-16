@@ -1,6 +1,6 @@
 # motion-template-spritekit
 
-TODO: Write a gem description
+Project template for SpriteKit with RubyMotion
 
 ## Installation
 
