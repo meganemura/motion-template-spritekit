@@ -1,4 +1,4 @@
-# motion-spritekit-template
+# motion-template-spritekit
 
 TODO: Write a gem description
 
@@ -6,7 +6,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'motion-spritekit-template'
+    gem 'motion-template-spritekit'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install motion-spritekit-template
+    $ gem install motion-template-spritekit
 
 ## Usage
 
