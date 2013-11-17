@@ -1,6 +1,6 @@
-# motion-template-spritekit
+# motion-template-spritekit [![Gem Version](https://badge.fury.io/rb/motion-template-spritekit.png)](http://badge.fury.io/rb/motion-template-spritekit)
 
-Project template for SpriteKit with RubyMotion [![Gem Version](https://badge.fury.io/rb/motion-template-spritekit.png)](http://badge.fury.io/rb/motion-template-spritekit)
+SpriteKit project template for RubyMotion
 
 ## Installation
 

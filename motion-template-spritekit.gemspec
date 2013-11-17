@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.version       = VERSION
   spec.authors       = ["meganemura"]
   spec.email         = ["mura2megane@gmail.com"]
-  spec.description   = %q{Project template for SpriteKit with RubyMotion}
+  spec.description   = %q{SpriteKit project template for RubyMotion}
   spec.summary       = %q{Setup SpriteKit template to user's directory}
   spec.homepage      = "https://github.com/meganemura/motion-template-spritekit"
   spec.license       = "MIT"
