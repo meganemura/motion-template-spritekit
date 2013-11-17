@@ -9,8 +9,7 @@ templates.each do |template|
   dst = File.join(dir, template)
 
   FileUtils.mkdir_p(dir) unless File.exist?(dir)
-  FileUtils.rm_f dst if File.exist?(dst)
-  FileUtils.ln_s src, dst
+  FileUtils.ln_s src, dst, :force => true
 end
 
 
