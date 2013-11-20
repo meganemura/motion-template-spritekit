@@ -12,6 +12,6 @@ Gem::Specification.new do |spec|
   spec.license       = "MIT"
   spec.extensions    = ['ext/extconf.rb'] # Command-Line Plugin Installer
 
-  spec.files         = `git ls-files`.split($\)
+  spec.files         = `git ls-files`.split($/)
   spec.require_paths = ["lib"]
 end
