@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{Setup SpriteKit template to user's directory}
   spec.homepage      = "https://github.com/meganemura/motion-template-spritekit"
   spec.license       = "MIT"
-  spec.extensions    = ['ext/extconf.rb'] # Command-Line Plugin Installer
+  spec.extensions    = ['ext/extconf.rb'] # Template Installer
 
   spec.files         = `git ls-files`.split($/)
   spec.require_paths = ["lib"]
