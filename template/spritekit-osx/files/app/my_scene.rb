@@ -2,7 +2,7 @@ class MyScene < SKScene
   def initWithSize(size)
     super
 
-    self.backgroundColor = NSColor.grayColor
+    self.backgroundColor = SKColor.grayColor
     my_label = SKLabelNode.labelNodeWithFontNamed("Chalkduster")
     my_label.text = "Hello, World!"
     my_label.fontSize = 30
