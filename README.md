@@ -18,6 +18,14 @@ Install it yourself as:
 
     $ motion create --template=spritekit-osx <app-name>
 
+## In Addition
+
+If you need original `Spaceship.png` image, please copy from your own.
+These are the typical locations for the image.
+
+    /Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/Project Templates/Mac/Application/SpriteKit Game.xctemplate/Spaceship.png
+    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/Project Templates/Application/SpriteKit Game.xctemplate/Spaceship.png
+
 ## Contributing
 
 1. Fork it
