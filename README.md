@@ -10,7 +10,13 @@ Install it yourself as:
 
 ## Usage
 
+### iOS
+
     $ motion create --template=spritekit-ios <app-name>
+
+### OSX
+
+    $ motion create --template=spritekit-osx <app-name>
 
 ## Contributing
 
