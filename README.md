@@ -19,6 +19,10 @@ Install it yourself as:
 
     $ motion create --template=spritekit-osx <app-name>
 
+### tvOS
+
+    $ motion create --template=spritekit-tvos <app-name>
+
 ## In Addition
 
 If you need original `Spaceship.png` image, please copy from your own.
