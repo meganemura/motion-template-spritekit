@@ -38,5 +38,3 @@ class ViewController < UIViewController
     # Release any cached data, images, etc that aren't in use.
   end
 end
-
-
